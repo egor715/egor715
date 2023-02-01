@@ -1,4 +1,18 @@
-![icon](./imgs/icon.jpg)
+<div  align="center">    
+  <img src="./imgs/icon.jpg" width = "20%" height = "20%" alt="avatar" align=center />
+</div>
+
+
+## <div align=center>Hi, I'm egor715😊</div>
+
+### 🚀About Me
+- 🏫 Undergraduate student in [NEU](http://www.neu.edu.cn/), China.
+- 💘 Recently working on computer vision.
+- 🔌 C++/Python/Matlab
+- 🤖 Interested in Artificial Intelligence, Robotics.
+- 🐕‍🦺 I like watching anime and raising pets(especially cats).
+- 📬 You can contact me at <yhliu7@foxmail.com>
+
 
 <!--
 **egor715/egor715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
